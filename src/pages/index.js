@@ -119,7 +119,6 @@ class LandingPage extends Component {
           <div className="container">
             <div className="hero-content">
               <h2 className="title">Website is being redesigned</h2>
-              <h2 className="title">Сайт в стадии редизайна</h2>
               <h2 className="title">Վեբ կայքը վերափոխվում է</h2>
               {/* <SmoothLink
                 className="btn btn-light smoth-scroll"
